@@ -33,7 +33,7 @@ This PowerShell script allows you to collect a baseline of file hashes and monit
 
 3. Run the script:
    ```powershell
-   .\FileIntegrityMonitoring.ps1
+   .\fim.ps1
    ```
 
 4. Choose an option from the menu:
