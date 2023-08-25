@@ -1,5 +1,5 @@
 # File Integrity Monitoring Script
-
+![2023-08-25 16_52_54-FIM](https://github.com/runtime0x00/File-integrity-monitoring./assets/48301328/0a465b1a-f5d3-45c9-ac61-c53b20f6d2ed)
 This PowerShell script allows you to collect a baseline of file hashes and monitor changes in a specified folder. It can be useful for detecting unauthorized changes to files or identifying new files in a folder.
 
 ## Table of Contents
